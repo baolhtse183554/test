@@ -1,0 +1,7 @@
+H07:Lilia:30:215 Le Van Viet, Thu Duc City:03812842383:5.5
+H05:OutString:25:300 Nguyen Van Cu, P1,Q5, Ho Chi Minh City:0984736154:3.0
+H04:Rainbow:40:320 Tran Hung Dao, P1, Q5, Ho Chi Minh City:0908375281:4.0
+H01:Seraton:23:189 Uu Van Khiem, Ho Chi Minh City:0909281749:5.5
+H03:Seraton:43:200 Uu Van Khiem, Ho Chi Minh City:0393291242:6.0
+H10:Surima:30:200 Nguyen Van Cu, P1,Q5, Ho Chi Minh City:0909876541:6.0
+H02:Betigar:20:200 Nguyen Van Choi, Q5, Go Vap, Ho Chi Minh City:0947634812:3.0
